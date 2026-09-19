@@ -2,7 +2,7 @@
 
 A two-page Looker Studio BI dashboard, fed by a Python ETL pipeline, tracking 215 remote-friendly job listings across the US, UK, Germany, and the Netherlands.
 
-![Dashboard preview](screenshots/page1_overview.png)
+![Dashboard preview](page1_overview.png)
 
 ## 🔗 Live Dashboard
 [View the live Looker Studio report](#) <!-- paste your published Looker Studio link here -->
@@ -17,7 +17,7 @@ A two-page Looker Studio BI dashboard, fed by a Python ETL pipeline, tracking 21
 
 ## 📄 Full write-up
 
-See [`report/Remote_Job_Market_Report.pdf`](report/Remote_Job_Market_Report.pdf) for a page-by-page breakdown of the dashboard, methodology, and key insights.
+See [`report/Remote_Job_Market_Report.pdf`](/Remote_Job_Market_Report.pdf) for a page-by-page breakdown of the dashboard, methodology, and key insights.
 
 ## 🛠 Tech stack
 
