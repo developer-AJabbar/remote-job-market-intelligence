@@ -2,7 +2,7 @@
 
 A two-page Looker Studio BI dashboard, fed by a Python ETL pipeline, tracking 215 remote-friendly job listings across the US, UK, Germany, and the Netherlands.
 
-![Dashboard preview](page1_overview.png) (page2_overview.png)
+![Dashboard preview](page1_overview.png) (page2_compensation.png)
 
 ## 🔗 Live Dashboard
 [View the live Looker Studio report](#) <https://datastudio.google.com/reporting/a6e6f4c5-7a78-4bf0-b596-6b8241a3f6a1>
